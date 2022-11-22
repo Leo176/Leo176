@@ -11,9 +11,7 @@
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
   <img align="center" alt="Terraform" height="30" width="40" src="https://www.svgrepo.com/show/354447/terraform-icon.svg">
   <img align="center" alt="Aws" height="30" width="40" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png">
-  <img align="center" alt="Linux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU">
-  
-  
+  <img align="center" alt="Linux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbi9aVFq2CV5UxsEhDk4L5Hk_u4nHnSTnsWhnOUNRg4mfdOfWZfJoPGLZL01QvgvIDT8Q&usqp=CAU">  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   
